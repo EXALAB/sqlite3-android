@@ -4,7 +4,7 @@ Makefile and Android.mk necessary to compile sqlite3 for Android.
 
 Requirements
 ------------
-* aria2c (or wget). Replace URL_DOWNLOADER variable in Makefile for other downloader.
+* aria2 (or wget). Replace URL_DOWNLOADER variable in Makefile for other downloader.
 * Android NDK
 
 Build
