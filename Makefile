@@ -1,7 +1,7 @@
 # /home/norbert/sqlite3-android/Makefile
 #
 .DEFAULT_GOAL		:= build
-SQLITE_AMALGATION	:= sqlite-amalgamation-3220000
+SQLITE_AMALGATION	:= sqlite-amalgamation-3250200
 SQLITE_SOURCEURL	:= https://sqlite.org/2018/$(SQLITE_AMALGATION).zip
 # TARGET ABI := armeabi armeabi-v7a arm64-v8a x86 x86_64 mips mips64 (or all)
 TARGET_ABI		:= armeabi
